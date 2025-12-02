@@ -1,20 +1,22 @@
-# Meu Primeiro App React Native
+# 📱 Aplicativo React Native - Consumo de API
 
-Este é um aplicativo React Native que consome dados da API JSONPlaceholder.
+## 📋 Descrição
+Aplicativo mobile desenvolvido em React Native que consome dados da API pública JSONPlaceholder, exibindo posts, detalhes, comentários e informações dos usuários.
 
-## Funcionalidades
-- Lista de posts
-- Detalhes do post com comentários
-- Perfil do usuário
-- Navegação entre telas
+## 🚀 Funcionalidades
+- ✅ Listagem de posts da API
+- ✅ Tela de detalhes do post
+- ✅ Comentários de cada post
+- ✅ Perfil completo do usuário
+- ✅ Navegação entre telas
+- ✅ Pull-to-refresh para atualizar
+- ✅ Loading states (carregando...)
+- ✅ Tratamento de erros
 
-## Como executar
-1. Clone este repositório
-2. Execute `npm install`
-3. Execute `npx expo start`
+## 🛠️ Tecnologias Utilizadas
+- **React Native** - Framework mobile
+- **React Navigation** - Navegação entre telas
+- **Axios** - Requisições HTTP
+- **JSONPlaceholder API** - API pública de teste
 
-## Tecnologias utilizadas
-- React Native
-- React Navigation
-- Axios
-- JSONPlaceholder API
+## 📁 Estrutura do Projeto
